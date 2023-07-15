@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm  a web developer @impactmadeimran. I focus on frontend and comfortable with Reactjs, Nextjs and tailwindcss 
+I'm  a web developer @impactmadeimran. I focus on frontend and comfortable with Reactjs, Nextjs, tailwindcss, swift and swiftui
 
 
 ## 🌐 Socials:
